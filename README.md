@@ -36,7 +36,7 @@ I'm a **Frontend Developer** passionate about crafting seamless user experiences
 
 - [www.linkedin.com/in/sudithraj-s](#) <!-- Add your LinkedIn URL here -->
 - [Twitter](#) <!-- Add your Twitter URL here -->
-- [Portfolio/Personal Website](#) <!-- Add your personal website URL here -->
+- [https://sudith-dev.github.io/Portfolio/](#) <!-- Add your personal website URL here -->
 
 ---
 
